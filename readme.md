@@ -1,3 +1,5 @@
-﻿* LifeGameWithLINQ *
+﻿#LifeGameWithLINQ
+
+
 「LINQかわいいよLINQ」
-#gdcr11より
+

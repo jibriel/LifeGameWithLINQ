@@ -1,3 +1,3 @@
-* LifeGameWithLINQ *
-ÅuLINQÇ©ÇÌÇ¢Ç¢ÇÊLINQÅv
-#gdcr11ÇÊÇË
+Ôªø* LifeGameWithLINQ *
+„ÄåLINQ„Åã„Çè„ÅÑ„ÅÑ„ÇàLINQ„Äç
+#gdcr11„Çà„Çä
